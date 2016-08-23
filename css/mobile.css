@@ -1,0 +1,25 @@
+/*用于移动端界面*/
+.name{
+    font-family: 'Bungee Shade', cursive;
+    width: 100%;
+    color: #fff;
+    font-size: 29px;
+    text-align: center;
+    position: absolute;
+}
+.wrapper{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top:25%;
+}
+.st-accordion ul{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.st-content p{
+    margin: 0;
+    padding-bottom: 0px;
+}
