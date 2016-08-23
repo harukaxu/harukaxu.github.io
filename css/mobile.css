@@ -19,6 +19,9 @@
     margin-right: auto;
     text-align: left;
 }
+.st-accordion a:visited {
+    color:#fff;
+}
 .st-content p{
     margin: 0;
     padding-bottom: 0px;
